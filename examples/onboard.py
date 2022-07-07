@@ -9,7 +9,7 @@ from dydx3.constants import NETWORK_ID_ROPSTEN
 from web3 import Web3
 
 # Ganache test address.
-ETHEREUM_ADDRESS = '0x22d491Bde2303f2f43325b2108D26f1eAbA1e32b'
+ETHEREUM_ADDRESS = '0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1'
 
 # Ganache node.
 WEB_PROVIDER_URL = 'http://localhost:8545'
